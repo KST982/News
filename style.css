@@ -1,0 +1,102 @@
+body{
+    background-color: #bcc8db;
+
+}
+
+
+* {
+  box-sizing: initial;
+}
+
+.search_box button {
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid black;
+	flex: flex-basis 100;
+	margin: -10px;
+	margin: 0px 0px:
+	border-left: none;
+}
+
+.search_box input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  background: #f1f1f1;
+	margin: 0px;
+  margin: 7px -5px 0px 0px;
+	down: -20px
+}
+
+.search_box button:hover {
+  background: #0b7dda;
+	cursor: pointer;
+}
+
+.search_box::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.ibm {
+	padding: 20px;
+	display: flex;
+	justify-content: space-between;
+	dotted {border-style: dotted;}
+}
+
+.ibm_logo {
+	height: 42px;
+	width: 100px;
+	margin: 20px;
+
+}
+
+
+.headline{
+	color: black;
+	text-align:center;
+
+}
+
+.main_heading {
+	color: #1262e2;
+	font-size:45px;
+	text-align:center;
+	padding: -10px;
+	font-family: "Raleway", san-serif
+}
+
+.main_headline {
+	color: #1262e2;
+	text-align:center;
+	font-family: "Raleway", san-serif
+
+}
+
+.grid-container > div {
+	background:#ddd;
+	padding:1em;
+}
+
+.grid-container > div:nth-child(odd) {
+	background:#eee;
+	padding:1em
+}
+
+.grid-container {
+	display:grid;
+	grid-template-columns:1fr 2fr 1fr;
+	grid-gap: 10px;
+  grid-auto-rows:minmax(100px, auto);
+  text-align:center;
+}
+
+.text_underline {
+  text-align:center;
+  text-decoration: underline;
+  font-weight: bold;
+}
