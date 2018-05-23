@@ -83,7 +83,7 @@ body{
 }
 
 .grid-container > div:nth-child(odd) {
-	background:#eee;
+	background: #eee;
 	padding:1em
 }
 
@@ -98,5 +98,10 @@ body{
 .text_underline {
   text-align:center;
   text-decoration: underline;
+  font-weight: bold;
+}
+
+.text_bold {
+  text-align:center;
   font-weight: bold;
 }
