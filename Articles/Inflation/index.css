@@ -1,0 +1,96 @@
+.head1 { 
+  font-family : tahona;
+font-size : 60px;
+  color : dodgerblue
+}
+
+body {
+  background-color: white;
+}
+
+.searchbar a {
+  color : dodgerblue;
+  padding : 5px; 
+  font size : 15px;
+}
+
+.searchbar {
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+ .searchbar [type=text], .topnav .search-container button {
+    float: none;
+    text-align: left;
+    width: 25%;
+    margin: 0;
+    padding: 8px;
+  }
+ 
+ div class="searchbar">
+  <a class="active" href="#home">Home</a>
+
+
+    
+  .heading1 {
+  color: black;
+  text-align: center;
+    text-decoration: underline;
+}
+.heading1 {
+  font-family : verdana;
+  font-size : 50px;
+}
+.heading1 {
+  background-color : powderblue;
+}
+
+.underpic {
+  font-size : 15px;
+    background : powderblue;
+  width : 16%
+}
+.paragraph1 {
+  color: black;
+  text-align: center;
+}
+.paragraph1 {
+  font-family : verdana;
+  font-size : 40px;
+}
+.paragraph1 {
+  background-color :powderblue;
+}
+.paragraph2 {
+  background-color : powderblue;
+  font-size : 20px;
+  }
+.paragraph3 {
+  background-color : powderblue;
+  font-size : 20px;
+  }
+.paragraph4 {
+  background-color : powderblue;
+  font-size : 20px;
+  }
+.paragraph5{
+  background-color : powderblue;
+  font-size : 20px;
+  }
+.paragraph6 {
+  background-color : powderblue;
+  font-size : 20px;
+  }
+ 
+.tablehead{
+  background-color : powderblue;
+}
+.table{
+  background-color : powderblue;
+}
+
+
